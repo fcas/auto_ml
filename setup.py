@@ -66,7 +66,7 @@ setup(
     # We will allow the user to install XGBoost themselves. However, since it can be difficult to install, we will not force them to go through that install challenge if they're just checking out the package and want to get running with it quickly.
     install_requires=[
         'dill>=0.2.5, <0.3',
-        'h5py>=2.7.0, <3.0',
+        'h5py>=2.7.0, <4.0',
         'lightgbm>=2.0.11, <2.1',
         'numpy>=1.11.0, <2.0',
         'pandas>=0.18.0, <1.0',

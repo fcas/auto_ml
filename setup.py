@@ -69,7 +69,7 @@ setup(
         'h5py>=2.7.0, <3.0',
         'lightgbm>=2.0.11, <2.1',
         'numpy>=1.11.0, <2.0',
-        'pandas>=0.18.0, <1.0',
+        'pandas>=0.18.0, <3.0',
         'pathos>=0.2.1, <0.3.0',
         'python-dateutil>=2.6.1, <3.0',
         'scikit-learn>=0.18.1, <1.0',
